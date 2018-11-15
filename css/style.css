@@ -122,6 +122,11 @@ img, video, audio {
 }
 
 /* //////SECTIONS//////// */
+header{
+  position: fixed;
+  top: 0;
+}
+
 section {
   margin-bottom: 20px;
   padding: 20px;
