@@ -97,3 +97,7 @@ figcaption {
 [class*="col-1"] {
   margin-left: 2%;
 }
+
+.first {
+  margin-left: 0%;
+}
